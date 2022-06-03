@@ -7,7 +7,7 @@
   💻 | I'm currently building a __cooking recipe website__ with the ability to post your own recipes with HTML - SASS - Javascript - Symfony.
        At the same time, I create a website for the __association "Tennis de Table Cloysien"__ with HTML - SASS - Vue JS.
                     
- Contact-me ✉️ | [LinkedIn](https://www.linkedin.com/in/mathilde-peauger/) !
+  ✉️ | Contact-me :[LinkedIn](https://www.linkedin.com/in/mathilde-peauger/) 
   
   
   
