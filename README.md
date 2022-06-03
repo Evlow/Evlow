@@ -9,8 +9,13 @@
                     
   ✉️ | Contact-me :[LinkedIn](https://www.linkedin.com/in/mathilde-peauger/) 
   
-  
-  
+
+
+
+[![Mes compétences](https://skills.thijs.gg/icons html,css,sass,visual )](https://skills.thijs.gg)
+
+
+
   
 > The difference between the possible and the impossible lies in the determination that slumbers in you !
        
