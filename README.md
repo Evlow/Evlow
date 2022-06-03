@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 !
 
-<!--
-**Evlow/Evlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mathilde, I'm a french developer apprentice 🔥.
 
-Here are some ideas to get you started:
+🎓 | I'm currently training with the Weborce3 school for obtaining the title web developer/mobile web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 | I'm currently building a cooking recipe website with the ability to post your own recipes with HTML - SASS - Javascript - Symfony.
+At the same time, I create a website for the association table tennis cloysien.
+
+
+
+
+
